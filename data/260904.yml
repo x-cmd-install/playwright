@@ -1,0 +1,70 @@
+about:
+  description: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+  license: Apache-2.0
+  homepage: https://playwright.dev
+  head: d1dcd6b
+  archived: false
+  latestVersion: v1.62.1
+  collectedAt: 2026-09-04T04:29:23Z
+timeline:
+  created: 2019-11-15
+  lastCommit: 2026-09-03
+  lastRelease: 2026-07-30
+popularity:
+  star: 95595
+  watcher: 609
+  fork: 6382
+  release: 165
+  contributor: 786
+  pullRequest: 3204
+  issue: 17911
+language:
+  TypeScript: 12033506
+  HTML: 485253
+  CSS: 314264
+  C++: 98468
+  Objective-C: 66567
+  Shell: 50169
+  JavaScript: 49747
+  Java: 20119
+  C: 10845
+  PowerShell: 6117
+  Python: 5489
+  C#: 2645
+  CMake: 2571
+  Makefile: 377
+  Batchfile: 169
+totalLine: 13146306
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 159
+    openPR: 27
+    closedIssue: 116
+    openIssue: 36
+    commit: 163
+  last90d:
+    since: 2026-06-06
+    release: 4
+    mergedPR: 654
+    openPR: 28
+    closedIssue: 349
+    openIssue: 58
+    commit: 703
+  last180d:
+    since: 2026-03-08
+    release: 7
+    mergedPR: 1516
+    openPR: 28
+    closedIssue: 724
+    openIssue: 81
+    commit: 1550
+  last360d:
+    since: 2025-09-09
+    release: 14
+    mergedPR: 2621
+    openPR: 28
+    closedIssue: 1434
+    openIssue: 91
+    commit: 2673
