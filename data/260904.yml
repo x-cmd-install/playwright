@@ -4,24 +4,24 @@ about:
     Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
   license: Apache-2.0
   homepage: https://playwright.dev
-  head: 1e9d2b1
+  head: a5e5632
   archived: false
   latestVersion: v1.62.1
-  collectedAt: 2026-09-04T19:31:49Z
+  collectedAt: 2026-09-04T20:59:22Z
 timeline:
   created: 2019-11-15
   lastCommit: 2026-09-04
   lastRelease: 2026-07-30
 popularity:
-  star: 95638
+  star: 95639
   watcher: 608
-  fork: 6386
+  fork: 6385
   release: 165
   contributor: 782
-  pullRequest: 21022
+  pullRequest: 21023
   issue: 17913
 language:
-  TypeScript: 12033506
+  TypeScript: 12036320
   HTML: 485253
   CSS: 314264
   C++: 98468
@@ -36,64 +36,222 @@ language:
   CMake: 2571
   Makefile: 377
   Batchfile: 169
-totalBytes: 13146306
+totalBytes: 13149120
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 162
-    openPR: 27
-    closedIssue: 121
-    openIssue: 32
-    commit: 166
+    mergedPR: 166
+    openPR: 24
+    closedIssue: 123
+    openIssue: 30
+    commit: 169
   last60d:
     since: 2026-07-06
     release: 2
-    mergedPR: 407
-    openPR: 28
-    closedIssue: 243
-    openIssue: 43
-    commit: 439
+    mergedPR: 411
+    openPR: 25
+    closedIssue: 245
+    openIssue: 41
+    commit: 442
   last90d:
     since: 2026-06-06
     release: 4
-    mergedPR: 657
-    openPR: 28
-    closedIssue: 355
-    openIssue: 54
-    commit: 706
+    mergedPR: 661
+    openPR: 25
+    closedIssue: 357
+    openIssue: 52
+    commit: 709
   last180d:
     since: 2026-03-08
     release: 7
-    mergedPR: 1519
-    openPR: 28
-    closedIssue: 730
-    openIssue: 77
-    commit: 1553
+    mergedPR: 1523
+    openPR: 25
+    closedIssue: 732
+    openIssue: 75
+    commit: 1556
   last360d:
     since: 2025-09-09
     release: 14
-    mergedPR: 2624
-    openPR: 28
-    closedIssue: 1440
-    openIssue: 87
-    commit: 2676
+    mergedPR: 2628
+    openPR: 25
+    closedIssue: 1442
+    openIssue: 85
+    commit: 2679
   last720d:
     since: 2024-09-14
     release: 32
-    mergedPR: 4705
-    openPR: 28
-    closedIssue: 3629
-    openIssue: 105
-    commit: 4625
+    mergedPR: 4709
+    openPR: 25
+    closedIssue: 3631
+    openIssue: 103
+    commit: 4628
 total:
   release: 165
-  mergedPR: 17816
-  openPR: 28
-  closedIssue: 17758
-  openIssue: 155
-  commit: 17828
+  mergedPR: 17820
+  openPR: 25
+  closedIssue: 17760
+  openIssue: 153
+  commit: 17831
 ---
+path: /home/runner/.x-repo/github.com/microsoft/playwright
+collectedAt: 2026-09-04T20:59:34Z
+loc:
+  TypeScript:
+    code: 298319
+    comments: 117417
+    blanks: 37352
+    files: 1258
+  JavaScript:
+    code: 117112
+    comments: 30344
+    blanks: 21985
+    files: 200
+  Json:
+    code: 17516
+    comments: 0
+    blanks: 0
+    files: 75
+  Tsx:
+    code: 11230
+    comments: 1766
+    blanks: 1225
+    files: 106
+  Css:
+    code: 10670
+    comments: 1225
+    blanks: 1078
+    files: 94
+  Html:
+    code: 6048
+    comments: 280
+    blanks: 399
+    files: 309
+  Yaml:
+    code: 4488
+    comments: 281
+    blanks: 531
+    files: 23
+  Cpp:
+    code: 1684
+    comments: 210
+    blanks: 317
+    files: 9
+  ObjectiveC:
+    code: 1228
+    comments: 120
+    blanks: 265
+    files: 4
+  Sh:
+    code: 1136
+    comments: 293
+    blanks: 252
+    files: 36
+  CHeader:
+    code: 550
+    comments: 254
+    blanks: 115
+    files: 15
+  Java:
+    code: 467
+    comments: 23
+    blanks: 50
+    files: 2
+  Xml:
+    code: 297
+    comments: 0
+    blanks: 6
+    files: 6
+  ForgeConfig:
+    code: 275
+    comments: 0
+    blanks: 85
+    files: 1
+  VisualStudioProject:
+    code: 152
+    comments: 0
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 130
+    comments: 2
+    blanks: 24
+    files: 7
+  XcodeConfig:
+    code: 95
+    comments: 88
+    blanks: 24
+    files: 4
+  Svg:
+    code: 80
+    comments: 4
+    blanks: 1
+    files: 18
+  Batch:
+    code: 74
+    comments: 0
+    blanks: 22
+    files: 2
+  Python:
+    code: 73
+    comments: 14
+    blanks: 13
+    files: 2
+  CMake:
+    code: 66
+    comments: 1
+    blanks: 13
+    files: 2
+  CSharp:
+    code: 53
+    comments: 23
+    blanks: 7
+    files: 2
+  C:
+    code: 45
+    comments: 29
+    blanks: 8
+    files: 1
+  Bitbake:
+    code: 30
+    comments: 14
+    blanks: 4
+    files: 3
+  VisualStudioSolution:
+    code: 30
+    comments: 0
+    blanks: 1
+    files: 1
+  Prolog:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  MsBuild:
+    code: 12
+    comments: 0
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 11
+    comments: 1
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 52048
+    blanks: 21004
+    files: 246
+  Text:
+    code: 0
+    comments: 2167
+    blanks: 57
+    files: 16
+total:
+  code: 493383
+  comments: 208237
+  blanks: 86781
+  files: 2446
 ---
 date: "2022-08-15"
 repo:
