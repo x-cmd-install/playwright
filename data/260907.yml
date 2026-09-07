@@ -2,22 +2,22 @@ about:
   description: "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. "
   license: Apache-2.0
   homepage: https://playwright.dev
-  head: 46cd500
+  head: 312030c
   archived: false
   latestVersion: "v1.63.0"
-  collectedAt: 2026-09-07T03:48:53Z
+  collectedAt: 2026-09-07T20:07:37Z
 timeline:
   created: 2019-11-15
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 95733
-  watcher: 609
-  fork: 6396
+  star: 95777
+  watcher: 608
+  fork: 6397
   release: 166
   contributor: 781
-  pullRequest: 21044
-  issue: 17922
+  pullRequest: 21032
+  issue: 17929
 language:
   TypeScript: 12036320
   HTML: 485253
@@ -39,61 +39,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 156
-    openPR: 27
-    closedIssue: 114
-    openIssue: 38
-    commit: 119
+    mergedPR: 158
+    openPR: 18
+    closedIssue: 119
+    openIssue: 40
+    commit: 121
   last60d:
     since: 2026-07-09
     release: 3
-    mergedPR: 384
-    openPR: 28
-    closedIssue: 229
-    openIssue: 49
-    commit: 391
+    mergedPR: 386
+    openPR: 19
+    closedIssue: 234
+    openIssue: 51
+    commit: 393
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 639
-    openPR: 28
-    closedIssue: 349
-    openIssue: 60
-    commit: 646
+    mergedPR: 641
+    openPR: 19
+    closedIssue: 354
+    openIssue: 62
+    commit: 648
   last180d:
     since: 2026-03-11
     release: 8
-    mergedPR: 1485
-    openPR: 28
-    closedIssue: 713
-    openIssue: 83
-    commit: 1488
+    mergedPR: 1487
+    openPR: 19
+    closedIssue: 718
+    openIssue: 85
+    commit: 1490
   last360d:
     since: 2025-09-12
     release: 15
-    mergedPR: 2602
-    openPR: 28
-    closedIssue: 1433
-    openIssue: 94
-    commit: 2624
+    mergedPR: 2604
+    openPR: 19
+    closedIssue: 1438
+    openIssue: 96
+    commit: 2626
   last720d:
     since: 2024-09-17
     release: 33
-    mergedPR: 4686
-    openPR: 28
-    closedIssue: 3617
-    openIssue: 112
-    commit: 4619
+    mergedPR: 4688
+    openPR: 19
+    closedIssue: 3622
+    openIssue: 114
+    commit: 4621
 total:
   release: 166
-  mergedPR: 17824
-  openPR: 28
-  closedIssue: 17760
-  openIssue: 162
-  commit: 17834
+  mergedPR: 17826
+  openPR: 19
+  closedIssue: 17765
+  openIssue: 164
+  commit: 17836
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright
-collectedAt: 2026-09-07T03:49:31Z
+collectedAt: 2026-09-07T20:08:08Z
 loc:
   TypeScript:
     code: 298319
@@ -643,7 +643,7 @@ checks:
       - 'Warn: number of required reviewers is only 0 on branch ''release-1.19'''
 ---
 eget:
-  collectedAt: 2026-09-07T03:49:40+00:00
+  collectedAt: 2026-09-07T20:08:10+00:00
   platform:
     darwin/arm64:
       name:  null
