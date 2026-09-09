@@ -7,7 +7,7 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 - **Latest release**: `v1.63.0` (2026-09-04)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 95836 · **Forks**: 6402 · **Open issues**: 17933 · **Contributors**: 784
+- **Stars**: 95871 · **Forks**: 6409 · **Open issues**: 17937 · **Contributors**: 784
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/playwright> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T03:58:35Z._
+_Last regenerated: 2026-09-09T18:21:55Z._
