@@ -12,6 +12,28 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 x install playwright
 ```
 
+## 代码规模
+
+合计: **473,393** 行代码（覆盖前 5 种语言、共 **1735** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| TypeScript | 299,766 | 117,605 | 37,522 | 1260 |
+| JavaScript | 117,127 | 30,356 | 21,983 | 200 |
+| Json | 17,516 | 0 | 0 | 75 |
+| Tsx | 11,231 | 1,766 | 1,225 | 106 |
+| Css | 10,670 | 1,225 | 1,078 | 94 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.5 / 10**
+
+评分最低的几项:
+
+- **CII-Best-Practices** (0/10) — no badge detected
+- **Signed-Releases** (-1/10) — no releases found
+- **Packaging** (-1/10) — no published package detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/microsoft/playwright>
@@ -25,41 +47,26 @@ x install playwright
 
 ## 流行度
 
-- **Star**: 95,924 · **Fork**: 6,411 · **开放 issue**: 17,943 · **贡献者**: 784
+- **Star**: 95,932 · **Fork**: 6,413 · **开放 issue**: 17,946 · **贡献者**: 785
 
 ## 累计统计
 
-- **发布数**: 166 · **已合并 PR**: 17854 · **开放 PR**: 14 · **已关闭 issue**: 17787 · **开放 issue**: 156 · **提交数**: 17864
+- **发布数**: 166 · **已合并 PR**: 17859 · **开放 PR**: 8 · **已关闭 issue**: 17790 · **开放 issue**: 156 · **提交数**: 17869
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 172 | 14 | 131 | 32 | 150 |
-| 90d | 2026-06-12 | 5 | 633 | 14 | 362 | 54 | 678 |
-| 360d | 2025-09-15 | 15 | 2627 | 14 | 1450 | 88 | 2656 |
+| 30d | 2026-08-11 | 1 | 177 | 8 | 134 | 32 | 155 |
+| last60d | 2026-07-12 | 3 | 407 | 8 | 253 | 43 | 428 |
+| 90d | 2026-06-12 | 5 | 638 | 8 | 365 | 54 | 683 |
+| last180d | 2026-03-14 | 8 | 1496 | 8 | 727 | 77 | 1525 |
+| 360d | 2025-09-15 | 15 | 2632 | 8 | 1453 | 88 | 2661 |
+| last720d | 2024-09-20 | 33 | 4684 | 8 | 3622 | 106 | 4610 |
 
-## 代码规模
+## 发行版状态
 
-合计: **473,032** 行代码（覆盖前 5 种语言、共 **1735** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| TypeScript | 299,409 | 117,552 | 37,489 | 1260 |
-| JavaScript | 117,126 | 30,356 | 21,983 | 200 |
-| Json | 17,516 | 0 | 0 | 75 |
-| Tsx | 11,230 | 1,766 | 1,225 | 106 |
-| Css | 10,670 | 1,225 | 1,078 | 94 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.5 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (0/10) — no badge detected
-- **Signed-Releases** (-1/10) — no releases found
-- **Packaging** (-1/10) — no published package detected
+在 [repology.org](https://repology.org/project/playwright) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -70,4 +77,4 @@ playwright 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:22:53Z._

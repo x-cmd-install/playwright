@@ -12,6 +12,28 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 x install playwright
 ```
 
+## Code insight
+
+Total: **473,393** lines of code across **1735** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 299,766 | 117,605 | 37,522 | 1260 |
+| JavaScript | 117,127 | 30,356 | 21,983 | 200 |
+| Json | 17,516 | 0 | 0 | 75 |
+| Tsx | 11,231 | 1,766 | 1,225 | 106 |
+| Css | 10,670 | 1,225 | 1,078 | 94 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.5 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no badge detected
+- **Signed-Releases** (-1/10) — no releases found
+- **Packaging** (-1/10) — no published package detected
+
 ## Source
 
 - **Upstream**: <https://github.com/microsoft/playwright>
@@ -25,41 +47,26 @@ x install playwright
 
 ## Popularity
 
-- **Stars**: 95,924 · **Forks**: 6,411 · **Open issues**: 17,943 · **Contributors**: 784
+- **Stars**: 95,932 · **Forks**: 6,413 · **Open issues**: 17,946 · **Contributors**: 785
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 17854 · **Open PRs**: 14 · **Closed issues**: 17787 · **Open issues**: 156 · **Commits**: 17864
+- **Releases**: 166 · **Merged PRs**: 17859 · **Open PRs**: 8 · **Closed issues**: 17790 · **Open issues**: 156 · **Commits**: 17869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 172 | 14 | 131 | 32 | 150 |
-| 90d | 2026-06-12 | 5 | 633 | 14 | 362 | 54 | 678 |
-| 360d | 2025-09-15 | 15 | 2627 | 14 | 1450 | 88 | 2656 |
+| 30d | 2026-08-11 | 1 | 177 | 8 | 134 | 32 | 155 |
+| last60d | 2026-07-12 | 3 | 407 | 8 | 253 | 43 | 428 |
+| 90d | 2026-06-12 | 5 | 638 | 8 | 365 | 54 | 683 |
+| last180d | 2026-03-14 | 8 | 1496 | 8 | 727 | 77 | 1525 |
+| 360d | 2025-09-15 | 15 | 2632 | 8 | 1453 | 88 | 2661 |
+| last720d | 2024-09-20 | 33 | 4684 | 8 | 3622 | 106 | 4610 |
 
-## Code size
+## Distribution status
 
-Total: **473,032** lines of code across **1735** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 299,409 | 117,552 | 37,489 | 1260 |
-| JavaScript | 117,126 | 30,356 | 21,983 | 200 |
-| Json | 17,516 | 0 | 0 | 75 |
-| Tsx | 11,230 | 1,766 | 1,225 | 106 |
-| Css | 10,670 | 1,225 | 1,078 | 94 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.5 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no badge detected
-- **Signed-Releases** (-1/10) — no releases found
-- **Packaging** (-1/10) — no published package detected
+Reported by **2** distros on [repology.org](https://repology.org/project/playwright). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -70,4 +77,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:22:52Z._
