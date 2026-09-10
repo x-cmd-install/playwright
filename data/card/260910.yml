@@ -2,12 +2,12 @@ about:
   description: "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. "
   license: Apache-2.0
   homepage: https://playwright.dev
-  head: 5967263
+  head: 9e371c0
   archived: false
   latestVersion: "v1.63.0"
   latestRelease: "v1.63.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:22:11Z
+  collectedAt: 2026-09-10T22:32:03Z
 timeline:
   created: 2019-11-15
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 95932
+  star: 95934
   watcher: 608
   fork: 6413
   release: 166
   contributor: 785
-  pullRequest: 21069
+  pullRequest: 21070
   issue: 17946
 language:
-  TypeScript: 12098790
+  TypeScript: 12115306
   HTML: 485253
   CSS: 314264
   C++: 98468
@@ -38,72 +38,72 @@ language:
   CMake: 2571
   Makefile: 377
   Batchfile: 169
-totalBytes: 13211590
+totalBytes: 13228106
 recent:
   last30d:
     since: 2026-08-11
     release: 1
-    mergedPR: 177
+    mergedPR: 178
     openPR: 8
-    closedIssue: 134
-    openIssue: 32
-    commit: 155
+    closedIssue: 135
+    openIssue: 31
+    commit: 157
   last60d:
     since: 2026-07-12
     release: 3
-    mergedPR: 407
+    mergedPR: 408
     openPR: 8
-    closedIssue: 253
-    openIssue: 43
-    commit: 428
+    closedIssue: 254
+    openIssue: 42
+    commit: 430
   last90d:
     since: 2026-06-12
     release: 5
-    mergedPR: 638
+    mergedPR: 639
     openPR: 8
-    closedIssue: 365
-    openIssue: 54
-    commit: 683
+    closedIssue: 366
+    openIssue: 53
+    commit: 685
   last180d:
     since: 2026-03-14
     release: 8
-    mergedPR: 1496
+    mergedPR: 1497
     openPR: 8
-    closedIssue: 727
-    openIssue: 77
-    commit: 1525
+    closedIssue: 728
+    openIssue: 76
+    commit: 1527
   last360d:
     since: 2025-09-15
     release: 15
-    mergedPR: 2632
+    mergedPR: 2633
     openPR: 8
-    closedIssue: 1453
-    openIssue: 88
-    commit: 2661
+    closedIssue: 1454
+    openIssue: 87
+    commit: 2663
   last720d:
     since: 2024-09-20
     release: 33
-    mergedPR: 4684
+    mergedPR: 4685
     openPR: 8
-    closedIssue: 3622
-    openIssue: 106
-    commit: 4610
+    closedIssue: 3623
+    openIssue: 105
+    commit: 4611
 total:
   release: 166
-  mergedPR: 17859
+  mergedPR: 17860
   openPR: 8
-  closedIssue: 17790
-  openIssue: 156
-  commit: 17869
+  closedIssue: 17791
+  openIssue: 155
+  commit: 17870
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright
-collectedAt: 2026-09-10T21:22:45Z
+collectedAt: 2026-09-10T22:32:32Z
 loc:
   TypeScript:
-    code: 299766
-    comments: 117605
-    blanks: 37522
-    files: 1260
+    code: 300132
+    comments: 117644
+    blanks: 37575
+    files: 1261
   JavaScript:
     code: 117127
     comments: 30356
@@ -241,8 +241,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 52213
-    blanks: 21082
+    comments: 52221
+    blanks: 21087
     files: 247
   Text:
     code: 0
@@ -250,10 +250,10 @@ loc:
     blanks: 57
     files: 16
 total:
-  code: 494917
-  comments: 208606
-  blanks: 87030
-  files: 2449
+  code: 495294
+  comments: 208653
+  blanks: 87088
+  files: 2450
 ---
 date: "2022-08-15"
 repo:
