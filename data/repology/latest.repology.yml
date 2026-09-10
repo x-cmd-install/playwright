@@ -1,0 +1,25 @@
+- repo: aur
+  srcname: playwright
+  binname: playwright
+  visiblename: playwright
+  version: 1.62.1
+  origversion: 1.62.1-2
+  status: newest
+  summary: Node.js library to automate Chromium, Firefox and WebKit with a single API
+  maintainers:
+    - bkb@aur
+    - ismet@aur
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: playwright
+  visiblename: playwright
+  version: 1.42.0
+  origversion: null
+  status: outdated
+  summary: Python version of the Playwright testing and automation library
+  maintainers:
+    - techknowlogick@gitea.com
+    - nix@yannik.info
+  licenses:
+    - Apache-2.0
