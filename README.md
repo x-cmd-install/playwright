@@ -22,23 +22,22 @@ x install playwright
 
 - **Latest**: `v1.63.0` (2026-09-04)
 - **Last commit**: 2026-09-10
-- **Published**: 2026-09-04T22:40:31Z
 
 ## Popularity
 
-- **Stars**: 95,885 · **Forks**: 6,411 · **Open issues**: 17,940 · **Contributors**: 784
+- **Stars**: 95,924 · **Forks**: 6,411 · **Open issues**: 17,943 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 17854 · **Open PRs**: 12 · **Closed issues**: 17786 · **Open issues**: 154 · **Commits**: 17864
+- **Releases**: 166 · **Merged PRs**: 17854 · **Open PRs**: 14 · **Closed issues**: 17787 · **Open issues**: 156 · **Commits**: 17864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 172 | 12 | 130 | 30 | 150 |
-| 90d | 2026-06-12 | 5 | 633 | 12 | 361 | 52 | 678 |
-| 360d | 2025-09-15 | 15 | 2627 | 12 | 1449 | 86 | 2656 |
+| 30d | 2026-08-11 | 1 | 172 | 14 | 131 | 32 | 150 |
+| 90d | 2026-06-12 | 5 | 633 | 14 | 362 | 54 | 678 |
+| 360d | 2025-09-15 | 15 | 2627 | 14 | 1450 | 88 | 2656 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for playwright lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `playwright` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/playwright.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/playwright.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:57:12Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:36Z._

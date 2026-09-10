@@ -4,7 +4,7 @@
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
-![playwright](https://repo.x-cmd.io/playwright.svg)
+![playwright](https://repo.x-cmd.io/playwright.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install playwright
 
 - **最新版本**: `v1.63.0` (2026-09-04)
 - **最近提交**: 2026-09-10
-- **发布时间**: 2026-09-04T22:40:31Z
 
 ## 流行度
 
-- **Star**: 95,885 · **Fork**: 6,411 · **开放 issue**: 17,940 · **贡献者**: 784
+- **Star**: 95,924 · **Fork**: 6,411 · **开放 issue**: 17,943 · **贡献者**: 784
 
 ## 累计统计
 
-- **发布数**: 166 · **已合并 PR**: 17854 · **开放 PR**: 12 · **已关闭 issue**: 17786 · **开放 issue**: 154 · **提交数**: 17864
+- **发布数**: 166 · **已合并 PR**: 17854 · **开放 PR**: 14 · **已关闭 issue**: 17787 · **开放 issue**: 156 · **提交数**: 17864
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 172 | 12 | 130 | 30 | 150 |
-| 90d | 2026-06-12 | 5 | 633 | 12 | 361 | 52 | 678 |
-| 360d | 2025-09-15 | 15 | 2627 | 12 | 1449 | 86 | 2656 |
+| 30d | 2026-08-11 | 1 | 172 | 14 | 131 | 32 | 150 |
+| 90d | 2026-06-12 | 5 | 633 | 14 | 362 | 54 | 678 |
+| 360d | 2025-09-15 | 15 | 2627 | 14 | 1450 | 88 | 2656 |
 
 ## 代码规模
 
@@ -71,4 +70,4 @@ playwright 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:57:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:39Z._
