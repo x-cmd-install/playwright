@@ -14,11 +14,11 @@ x install playwright
 
 ## Code insight
 
-Total: **473,866** lines of code across **1737** files in the top 5 languages.
+Total: **474,332** lines of code across **1740** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 300,239 | 117,674 | 37,587 | 1262 |
+| TypeScript | 300,705 | 117,744 | 37,650 | 1265 |
 | JavaScript | 117,127 | 30,356 | 21,983 | 200 |
 | Json | 17,516 | 0 | 0 | 75 |
 | Tsx | 11,231 | 1,766 | 1,225 | 106 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 95,947 · **Forks**: 6,414 · **Open issues**: 17,947 · **Contributors**: 785
+- **Stars**: 95,983 · **Forks**: 6,416 · **Open issues**: 17,951 · **Contributors**: 785
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 17863 · **Open PRs**: 8 · **Closed issues**: 17792 · **Open issues**: 155 · **Commits**: 17873
+- **Releases**: 166 · **Merged PRs**: 17867 · **Open PRs**: 11 · **Closed issues**: 17796 · **Open issues**: 155 · **Commits**: 17877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 175 | 8 | 131 | 29 | 160 |
-| last60d | 2026-07-13 | 3 | 407 | 8 | 252 | 42 | 433 |
-| 90d | 2026-06-13 | 5 | 640 | 8 | 365 | 53 | 688 |
-| last180d | 2026-03-15 | 8 | 1497 | 8 | 722 | 75 | 1530 |
-| 360d | 2025-09-16 | 15 | 2630 | 8 | 1451 | 87 | 2666 |
-| last720d | 2024-09-21 | 32 | 4687 | 8 | 3618 | 105 | 4604 |
+| 30d | 2026-08-12 | 1 | 179 | 11 | 135 | 29 | 164 |
+| last60d | 2026-07-13 | 3 | 411 | 11 | 256 | 42 | 437 |
+| 90d | 2026-06-13 | 5 | 644 | 11 | 369 | 53 | 692 |
+| last180d | 2026-03-15 | 8 | 1501 | 11 | 726 | 75 | 1534 |
+| 360d | 2025-09-16 | 15 | 2634 | 11 | 1455 | 87 | 2670 |
+| last720d | 2024-09-21 | 32 | 4691 | 11 | 3622 | 105 | 4608 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:53:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:43:22Z._
