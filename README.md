@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 95,991 · **Forks**: 6,418 · **Open issues**: 17,953 · **Contributors**: 785
+- **Stars**: 96,037 · **Forks**: 6,422 · **Open issues**: 17,962 · **Contributors**: 785
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 17870 · **Open PRs**: 13 · **Closed issues**: 17797 · **Open issues**: 156 · **Commits**: 17880
+- **Releases**: 166 · **Merged PRs**: 17870 · **Open PRs**: 16 · **Closed issues**: 17797 · **Open issues**: 165 · **Commits**: 17880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 171 | 13 | 130 | 29 | 167 |
-| last60d | 2026-07-14 | 3 | 405 | 13 | 248 | 43 | 440 |
-| 90d | 2026-06-14 | 5 | 646 | 13 | 370 | 54 | 695 |
-| last180d | 2026-03-16 | 8 | 1494 | 13 | 724 | 76 | 1537 |
-| 360d | 2025-09-17 | 15 | 2625 | 13 | 1452 | 88 | 2673 |
-| last720d | 2024-09-22 | 32 | 4693 | 13 | 3620 | 106 | 4610 |
+| 30d | 2026-08-14 | 1 | 163 | 16 | 127 | 37 | 131 |
+| last60d | 2026-07-15 | 3 | 388 | 16 | 246 | 51 | 350 |
+| 90d | 2026-06-15 | 5 | 633 | 16 | 366 | 61 | 646 |
+| last180d | 2026-03-17 | 8 | 1477 | 16 | 718 | 85 | 1488 |
+| 360d | 2025-09-18 | 15 | 2612 | 16 | 1446 | 97 | 2601 |
+| last720d | 2024-09-23 | 32 | 4682 | 16 | 3613 | 115 | 4610 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T03:57:05Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:05:24Z._
