@@ -4,7 +4,7 @@
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
-![playwright](https://repo.x-cmd.io/playwright.svg)
+[![x-cmd/install — playwright Code Quality Monitoring Repo Card](https://repo.x-cmd.io/playwright.svg)](https://x-cmd.com/install/playwright)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install playwright
 
 ## Code insight
 
-Total: **476,720** lines of code across **1753** files in the top 5 languages.
+Total: **477,371** lines of code across **1757** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 302,983 | 118,279 | 37,940 | 1278 |
-| JavaScript | 117,156 | 30,362 | 21,986 | 200 |
-| Json | 17,516 | 0 | 0 | 75 |
-| Tsx | 11,243 | 1,766 | 1,226 | 106 |
-| Css | 10,691 | 1,226 | 1,082 | 94 |
+| TypeScript | 303,439 | 118,359 | 38,005 | 1281 |
+| JavaScript | 117,157 | 30,362 | 21,986 | 200 |
+| Json | 17,600 | 0 | 0 | 75 |
+| Tsx | 11,343 | 1,792 | 1,236 | 107 |
+| Css | 10,701 | 1,226 | 1,083 | 94 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.63.0` (2026-09-04)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 96,290 · **Forks**: 6,456 · **Open issues**: 17,988 · **Contributors**: 788
+- **Stars**: 96,380 · **Forks**: 6,469 · **Open issues**: 18,008 · **Contributors**: 788
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 17902 · **Open PRs**: 17 · **Closed issues**: 17823 · **Open issues**: 165 · **Commits**: 17912
+- **Releases**: 166 · **Merged PRs**: 17906 · **Open PRs**: 26 · **Closed issues**: 17832 · **Open issues**: 176 · **Commits**: 17916
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 176 | 16 | 129 | 38 | 164 |
-| last60d | 2026-07-20 | 3 | 381 | 17 | 247 | 49 | 383 |
-| 90d | 2026-06-20 | 4 | 627 | 17 | 372 | 57 | 679 |
-| last180d | 2026-03-22 | 8 | 1478 | 17 | 721 | 83 | 1521 |
-| 360d | 2025-09-23 | 15 | 2605 | 17 | 1456 | 97 | 2634 |
-| last720d | 2024-09-28 | 32 | 4668 | 17 | 3597 | 115 | 4587 |
+| 30d | 2026-08-21 | 1 | 165 | 25 | 124 | 49 | 138 |
+| last60d | 2026-07-22 | 3 | 355 | 26 | 249 | 59 | 329 |
+| 90d | 2026-06-22 | 4 | 619 | 26 | 375 | 68 | 621 |
+| last180d | 2026-03-24 | 8 | 1469 | 26 | 723 | 94 | 1456 |
+| 360d | 2025-09-25 | 14 | 2575 | 26 | 1456 | 108 | 2579 |
+| last720d | 2024-09-30 | 32 | 4659 | 26 | 3598 | 126 | 4589 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:00:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:15:35Z._
