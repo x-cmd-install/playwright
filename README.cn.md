@@ -4,7 +4,7 @@
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
-[![x-cmd/install — playwright Code Quality Monitoring Repo Card](https://repo.x-cmd.io/playwright.svg?lang=zh)](https://x-cmd.com/install/playwright)
+[![x-cmd/install — playwright Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/playwright.svg?lang=zh)](https://x-cmd.com/install/playwright)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install playwright
 
 ## 代码洞察
 
-合计: **477,590** 行代码（覆盖前 5 种语言、共 **1757** 个文件）。
+合计: **477,682** 行代码（覆盖前 5 种语言、共 **1756** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 303,637 | 118,394 | 38,019 | 1281 |
+| TypeScript | 303,718 | 118,404 | 38,007 | 1280 |
 | JavaScript | 117,178 | 30,362 | 21,986 | 200 |
 | Json | 17,600 | 0 | 0 | 75 |
 | Tsx | 11,343 | 1,792 | 1,236 | 107 |
@@ -43,26 +43,26 @@ x install playwright
 ## 发布
 
 - **最新版本**: `v1.63.0` (2026-09-04)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
-- **Star**: 96,480 · **Fork**: 6,478 · **开放 issue**: 18,026 · **贡献者**: 791
+- **Star**: 96,532 · **Fork**: 6,484 · **开放 issue**: 18,036 · **贡献者**: 793
 
 ## 累计统计
 
-- **发布数**: 166 · **已合并 PR**: 17924 · **开放 PR**: 30 · **已关闭 issue**: 17852 · **开放 issue**: 174 · **提交数**: 17934
+- **发布数**: 166 · **已合并 PR**: 17940 · **开放 PR**: 28 · **已关闭 issue**: 17868 · **开放 issue**: 168 · **提交数**: 17950
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 182 | 29 | 137 | 47 | 156 |
-| last60d | 2026-07-24 | 3 | 348 | 30 | 264 | 57 | 347 |
-| 90d | 2026-06-24 | 3 | 621 | 30 | 379 | 66 | 639 |
-| last180d | 2026-03-26 | 8 | 1460 | 30 | 731 | 91 | 1474 |
-| 360d | 2025-09-27 | 14 | 2576 | 30 | 1469 | 106 | 2597 |
-| last720d | 2024-10-02 | 32 | 4652 | 30 | 3598 | 124 | 4587 |
+| 30d | 2026-08-24 | 1 | 195 | 27 | 146 | 40 | 172 |
+| last60d | 2026-07-25 | 2 | 362 | 28 | 277 | 51 | 363 |
+| 90d | 2026-06-25 | 3 | 622 | 28 | 389 | 60 | 655 |
+| last180d | 2026-03-27 | 8 | 1462 | 28 | 742 | 85 | 1490 |
+| 360d | 2025-09-28 | 14 | 2592 | 28 | 1479 | 100 | 2613 |
+| last720d | 2024-10-03 | 32 | 4662 | 28 | 3612 | 118 | 4590 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ playwright 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:09:15Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:05:56Z._
