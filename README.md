@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.64.1` (2026-10-14)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 98,183 · **Forks**: 6,662 · **Open issues**: 18,301 · **Contributors**: 797
+- **Stars**: 98,247 · **Forks**: 6,667 · **Open issues**: 18,307 · **Contributors**: 797
 
 ## Totals (cumulative)
 
-- **Releases**: 168 · **Merged PRs**: 18245 · **Open PRs**: 7 · **Closed issues**: 18130 · **Open issues**: 171 · **Commits**: 18253
+- **Releases**: 168 · **Merged PRs**: 18246 · **Open PRs**: 13 · **Closed issues**: 18132 · **Open issues**: 175 · **Commits**: 18254
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 308 | 7 | 239 | 34 | 234 |
-| last60d | 2026-08-22 | 3 | 503 | 7 | 410 | 51 | 446 |
-| 90d | 2026-07-23 | 5 | 677 | 7 | 540 | 59 | 634 |
-| last180d | 2026-04-24 | 8 | 1490 | 7 | 912 | 81 | 1467 |
-| 360d | 2025-10-26 | 14 | 2726 | 7 | 1585 | 102 | 2716 |
-| last720d | 2024-10-31 | 31 | 4798 | 7 | 3636 | 118 | 4731 |
+| 30d | 2026-09-22 | 2 | 297 | 13 | 230 | 39 | 235 |
+| last60d | 2026-08-23 | 3 | 504 | 13 | 410 | 55 | 447 |
+| 90d | 2026-07-24 | 5 | 670 | 13 | 540 | 63 | 635 |
+| last180d | 2026-04-25 | 8 | 1490 | 13 | 911 | 85 | 1468 |
+| 360d | 2025-10-27 | 14 | 2719 | 13 | 1581 | 106 | 2717 |
+| last720d | 2024-11-01 | 31 | 4787 | 13 | 3632 | 122 | 4726 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:01:25Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:02:19Z._
