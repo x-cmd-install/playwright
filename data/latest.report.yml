@@ -2,12 +2,12 @@ about:
   description: "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. "
   license: Apache-2.0
   homepage: https://playwright.dev
-  head: 018adb5
+  head: a6fb02f
   archived: false
   latestVersion: "v1.64.1"
   latestRelease: "v1.64.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T05:03:49Z
+  collectedAt: 2026-10-31T04:52:06Z
 timeline:
   created: 2019-11-15
   lastCommit: 2026-10-30
@@ -15,21 +15,21 @@ timeline:
   lastRelease: 2026-10-14
   lastPrerelease: 
 popularity:
-  star: 98837
+  star: 98917
   watcher: 614
-  fork: 6737
+  fork: 6750
   release: 168
   contributor: 800
-  pullRequest: 21737
-  issue: 18390
+  pullRequest: 21755
+  issue: 18407
 language:
-  TypeScript: 12736195
+  TypeScript: 12757699
   HTML: 504928
   CSS: 315002
   C++: 98574
   Objective-C: 66998
-  Shell: 47504
-  JavaScript: 46215
+  JavaScript: 48938
+  Shell: 48072
   Java: 20119
   C: 10845
   PowerShell: 6117
@@ -38,84 +38,84 @@ language:
   CMake: 2571
   Makefile: 377
   Batchfile: 169
-totalBytes: 13863748
+totalBytes: 13888543
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 2
-    mergedPR: 302
-    openPR: 32
-    closedIssue: 252
-    openIssue: 49
-    commit: 265
+    mergedPR: 307
+    openPR: 11
+    closedIssue: 286
+    openIssue: 23
+    commit: 283
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 3
-    mergedPR: 533
-    openPR: 32
-    closedIssue: 445
-    openIssue: 65
-    commit: 489
+    mergedPR: 552
+    openPR: 11
+    closedIssue: 489
+    openIssue: 29
+    commit: 507
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 3
-    mergedPR: 704
-    openPR: 32
-    closedIssue: 580
-    openIssue: 74
-    commit: 672
+    mergedPR: 728
+    openPR: 11
+    closedIssue: 631
+    openIssue: 30
+    commit: 690
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 8
-    mergedPR: 1483
-    openPR: 32
-    closedIssue: 949
-    openIssue: 93
-    commit: 1453
+    mergedPR: 1482
+    openPR: 11
+    closedIssue: 1024
+    openIssue: 30
+    commit: 1471
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 14
-    mergedPR: 2762
-    openPR: 32
-    closedIssue: 1610
-    openIssue: 117
-    commit: 2769
+    mergedPR: 2784
+    openPR: 11
+    closedIssue: 1708
+    openIssue: 30
+    commit: 2787
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 31
-    mergedPR: 4820
-    openPR: 32
-    closedIssue: 3638
-    openIssue: 133
-    commit: 4747
+    mergedPR: 4843
+    openPR: 11
+    closedIssue: 3753
+    openIssue: 32
+    commit: 4770
 total:
   release: 168
-  mergedPR: 18325
-  openPR: 32
-  closedIssue: 18203
-  openIssue: 187
-  commit: 18333
+  mergedPR: 18349
+  openPR: 11
+  closedIssue: 18374
+  openIssue: 33
+  commit: 18357
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright
-collectedAt: 2026-10-30T05:04:15Z
+collectedAt: 2026-10-31T04:52:54Z
 loc:
   TypeScript:
-    code: 312385
-    comments: 120232
-    blanks: 38898
-    files: 1295
+    code: 312828
+    comments: 120287
+    blanks: 38925
+    files: 1296
   JavaScript:
-    code: 117182
-    comments: 30308
-    blanks: 21985
-    files: 193
+    code: 117218
+    comments: 30327
+    blanks: 21993
+    files: 194
   Json:
     code: 16799
     comments: 0
     blanks: 0
     files: 72
   Tsx:
-    code: 11355
+    code: 11353
     comments: 1793
     blanks: 1236
     files: 107
@@ -150,9 +150,9 @@ loc:
     blanks: 266
     files: 4
   Sh:
-    code: 1079
-    comments: 284
-    blanks: 236
+    code: 1088
+    comments: 285
+    blanks: 237
     files: 35
   CHeader:
     code: 550
@@ -241,8 +241,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 58651
-    blanks: 21740
+    comments: 58693
+    blanks: 21751
     files: 249
   Text:
     code: 0
@@ -250,10 +250,10 @@ loc:
     blanks: 57
     files: 12
 total:
-  code: 508666
-  comments: 216397
-  blanks: 89108
-  files: 2479
+  code: 509150
+  comments: 216514
+  blanks: 89155
+  files: 2481
 ---
 date: "2022-08-15"
 repo:
