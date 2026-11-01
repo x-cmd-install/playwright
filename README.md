@@ -14,14 +14,14 @@ x install playwright
 
 ## Code insight
 
-Total: **487,367** lines of code across **1763** files in the top 5 languages.
+Total: **487,439** lines of code across **1763** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 312,828 | 120,287 | 38,925 | 1296 |
+| TypeScript | 312,898 | 120,291 | 38,929 | 1296 |
 | JavaScript | 117,218 | 30,327 | 21,993 | 194 |
 | Json | 16,799 | 0 | 0 | 72 |
-| Tsx | 11,353 | 1,793 | 1,236 | 107 |
+| Tsx | 11,355 | 1,793 | 1,236 | 107 |
 | Css | 10,701 | 1,226 | 1,083 | 94 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.64.1` (2026-10-14)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 98,917 · **Forks**: 6,750 · **Open issues**: 18,407 · **Contributors**: 800
+- **Stars**: 99,002 · **Forks**: 6,764 · **Open issues**: 18,414 · **Contributors**: 800
 
 ## Totals (cumulative)
 
-- **Releases**: 168 · **Merged PRs**: 18349 · **Open PRs**: 11 · **Closed issues**: 18374 · **Open issues**: 33 · **Commits**: 18357
+- **Releases**: 168 · **Merged PRs**: 18353 · **Open PRs**: 12 · **Closed issues**: 18378 · **Open issues**: 36 · **Commits**: 18359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 307 | 11 | 286 | 23 | 283 |
-| last60d | 2026-09-01 | 3 | 552 | 11 | 489 | 29 | 507 |
-| 90d | 2026-08-02 | 3 | 728 | 11 | 631 | 30 | 690 |
-| last180d | 2026-05-04 | 8 | 1482 | 11 | 1024 | 30 | 1471 |
-| 360d | 2025-11-05 | 14 | 2784 | 11 | 1708 | 30 | 2787 |
-| last720d | 2024-11-10 | 31 | 4843 | 11 | 3753 | 32 | 4770 |
+| 30d | 2026-10-02 | 2 | 299 | 12 | 275 | 26 | 208 |
+| last60d | 2026-09-02 | 3 | 538 | 12 | 485 | 32 | 458 |
+| 90d | 2026-08-03 | 3 | 720 | 12 | 630 | 33 | 642 |
+| last180d | 2026-05-05 | 8 | 1462 | 12 | 1024 | 33 | 1369 |
+| 360d | 2025-11-06 | 14 | 2786 | 12 | 1708 | 33 | 2755 |
+| last720d | 2024-11-11 | 31 | 4841 | 12 | 3752 | 35 | 4772 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T04:53:20Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:16:37Z._
