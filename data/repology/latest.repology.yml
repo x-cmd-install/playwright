@@ -53,9 +53,9 @@
   srcname: playwright
   binname: playwright
   visiblename: playwright
-  version: 1.64.1
+  version: 1.65.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Browser automation library and test runner for JavaScript/TypeScript
   maintainers:
     - gouranga.das.khulna@gmail.com
