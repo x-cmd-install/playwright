@@ -14,12 +14,12 @@ x install playwright
 
 ## Code insight
 
-Total: **490,183** lines of code across **1775** files in the top 5 languages.
+Total: **490,377** lines of code across **1776** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 315,968 | 121,541 | 39,141 | 1307 |
-| JavaScript | 116,674 | 30,213 | 21,888 | 194 |
+| TypeScript | 316,089 | 121,545 | 39,152 | 1307 |
+| JavaScript | 116,747 | 30,223 | 21,895 | 195 |
 | Json | 16,776 | 0 | 0 | 72 |
 | Tsx | 11,563 | 1,834 | 1,257 | 109 |
 | Css | 10,626 | 1,207 | 1,072 | 93 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.65.1` (2026-11-13)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 101,090 · **Forks**: 6,981 · **Open issues**: 18,640 · **Contributors**: 806
+- **Stars**: 101,161 · **Forks**: 6,989 · **Open issues**: 18,642 · **Contributors**: 805
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 18583 · **Open PRs**: 22 · **Closed issues**: 18609 · **Open issues**: 31 · **Commits**: 18588
+- **Releases**: 170 · **Merged PRs**: 18586 · **Open PRs**: 21 · **Closed issues**: 18612 · **Open issues**: 30 · **Commits**: 18593
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 286 | 21 | 249 | 21 | 248 |
-| last60d | 2026-09-27 | 4 | 592 | 22 | 552 | 24 | 538 |
-| 90d | 2026-08-28 | 5 | 798 | 22 | 741 | 26 | 747 |
-| last180d | 2026-05-30 | 9 | 1487 | 22 | 1144 | 26 | 1458 |
-| 360d | 2025-12-01 | 15 | 2908 | 22 | 1848 | 27 | 2892 |
-| last720d | 2024-12-06 | 32 | 4937 | 22 | 3781 | 29 | 4874 |
+| 30d | 2026-10-28 | 2 | 267 | 20 | 248 | 20 | 254 |
+| last60d | 2026-09-28 | 4 | 588 | 21 | 548 | 23 | 544 |
+| 90d | 2026-08-29 | 5 | 802 | 21 | 741 | 25 | 753 |
+| last180d | 2026-05-31 | 9 | 1490 | 21 | 1146 | 25 | 1464 |
+| 360d | 2025-12-02 | 15 | 2906 | 21 | 1847 | 26 | 2898 |
+| last720d | 2024-12-07 | 32 | 4938 | 21 | 3784 | 28 | 4874 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:39:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T07:37:58Z._
