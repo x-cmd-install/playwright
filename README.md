@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.65.1` (2026-11-13)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 101,161 · **Forks**: 6,989 · **Open issues**: 18,642 · **Contributors**: 805
+- **Stars**: 101,217 · **Forks**: 6,999 · **Open issues**: 18,646 · **Contributors**: 806
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 18586 · **Open PRs**: 21 · **Closed issues**: 18612 · **Open issues**: 30 · **Commits**: 18593
+- **Releases**: 170 · **Merged PRs**: 18588 · **Open PRs**: 21 · **Closed issues**: 18615 · **Open issues**: 31 · **Commits**: 18595
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 267 | 20 | 248 | 20 | 254 |
-| last60d | 2026-09-28 | 4 | 588 | 21 | 548 | 23 | 544 |
-| 90d | 2026-08-29 | 5 | 802 | 21 | 741 | 25 | 753 |
-| last180d | 2026-05-31 | 9 | 1490 | 21 | 1146 | 25 | 1464 |
-| 360d | 2025-12-02 | 15 | 2906 | 21 | 1847 | 26 | 2898 |
-| last720d | 2024-12-07 | 32 | 4938 | 21 | 3784 | 28 | 4874 |
+| 30d | 2026-10-29 | 2 | 248 | 20 | 238 | 21 | 256 |
+| last60d | 2026-09-29 | 4 | 578 | 21 | 547 | 24 | 546 |
+| 90d | 2026-08-30 | 5 | 804 | 21 | 743 | 26 | 755 |
+| last180d | 2026-06-01 | 9 | 1474 | 21 | 1145 | 26 | 1466 |
+| 360d | 2025-12-03 | 15 | 2900 | 21 | 1844 | 27 | 2900 |
+| last720d | 2024-12-08 | 32 | 4940 | 21 | 3784 | 29 | 4875 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for playwright lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T07:37:58Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:04:33Z._
